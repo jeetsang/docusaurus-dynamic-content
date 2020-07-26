@@ -1,3 +1,9 @@
+#  Basic example of dynamic content
+
+It uses `BrowserOnly` component to demostrate dynamic content. Example fetches launch data from SpaceX API and displays in a table
+
+Run the app as instructed below and go spacex page.
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
